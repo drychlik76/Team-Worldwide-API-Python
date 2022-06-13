@@ -314,4 +314,4 @@ Class | Method | HTTP request | Description
 
 ## Author
 
-
+Daniel J. Rychlik
