@@ -1,0 +1,12 @@
+# InlineResponse200
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**hydramember** | [**list[GetAccessorialsTeamBookAccessorialJsonldTeamBookGetAccessorialCreateCollectionGetRead]**](GetAccessorialsTeamBookAccessorialJsonldTeamBookGetAccessorialCreateCollectionGetRead.md) |  | 
+**hydratotal_items** | **int** |  | [optional] 
+**hydraview** | [**InlineResponse200Hydraview**](InlineResponse200Hydraview.md) |  | [optional] 
+**hydrasearch** | [**InlineResponse200Hydrasearch**](InlineResponse200Hydrasearch.md) |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
